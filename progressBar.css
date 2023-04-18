@@ -1,0 +1,14 @@
+#myProgress {
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+}
+
+#myBar {
+  width: 1%;
+  height: 55px;
+  background-color: #2A3545;
+  border-radius: 5px;
+  float: left;
+  font-size: 30px;
+}
